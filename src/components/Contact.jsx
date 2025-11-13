@@ -2,7 +2,7 @@ import MapGoogle from './MapGoogle'; // Importa el componente
 import { FaFacebook, FaInstagram } from 'react-icons/fa';
 import { FaXTwitter } from "react-icons/fa6";
 
-
+//babel: Contacto Component
 const Contacto = () => {
     return (
         <div className="bg-gray-100 py-16">
