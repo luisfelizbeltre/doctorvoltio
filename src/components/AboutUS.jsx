@@ -2,7 +2,7 @@ import { useState } from "react";
 
 const AboutUs = () => {
   const [showMore, setShowMore] = useState(false);
-
+// Componente AboutUs que describe la empresa Doctor Voltio
   return (
     <div className="bg-gray-100 py-16">
       <div className="container mt-9 mx-auto px-6">
